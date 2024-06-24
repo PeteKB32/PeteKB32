@@ -1,0 +1,3 @@
+- 👋 Hello! My name is Pete and I am currently studying aerospace engineering at the University of Tennessee, Knoxville. 
+- I have completed several programming/data science courses and implimented programming through robotics in small scale projects.
+- I am looking to improve my skills for future employment.
